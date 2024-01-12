@@ -37,9 +37,15 @@ zstyle ':prezto:load' pmodule \
   'directory' \
   'spectrum' \
   'utility' \
+  'git' \
   'completion' \
+  'syntax-highlighting' \
   'history-substring-search' \
-  'prompt'
+  'autosuggestions' \
+  'prompt' \
+  'docker' \
+  'rsync' \
+  'osx'
 
 #
 # Autosuggestions
